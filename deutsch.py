@@ -17,7 +17,7 @@ Verben = [
 ("denken","dachte","gedacht","haben","a gandi"),
 ("erlöschen","erlosch","erloschen","sein","a se stinge"),
 ("erschrecken","erschrack","erschrocken","sein","a se speria"),
-("essen","aßß","gegessen","haben","a manca"),
+("essen","aß","gegessen","haben","a manca"),
 ("fahren","fuhr","gefahren","sein","a merge"),
 ("fallen","fiel","gefallen","sein","a cadea"),
 ("fangen","fing","gefangen","haben","a prinde"),
